@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TvibitTest]]></title>
         <description><![CDATA[TvibitTest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tvibittest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 09:10:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 09:11:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tvibittest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d305a01a-70fb-43b9-97c8-bf509200374c.JPG">]]></description>
+            <link>https://thegrid.ai/tvibittest/47afa3e6-e69e-4f2b-9b21-43307495586d/index.html</link>
+            <guid isPermaLink="false">47afa3e6-e69e-4f2b-9b21-43307495586d</guid>
+            <pubDate>Mon, 30 Nov 2015 09:10:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://rack.0.mshcdn.com/media/ZgkyMDE1LzExLzMwL2M2L2tvYmU5LjUyMDRjLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/86f6c99b/4a1/kobe9.jpg">]]></description>
-            <link>undefined83f5208d-b8b5-464d-9ee9-b7f9c5939b74/index.html</link>
+            <link>https://thegrid.ai/tvibittest/83f5208d-b8b5-464d-9ee9-b7f9c5939b74/index.html</link>
             <guid isPermaLink="false">83f5208d-b8b5-464d-9ee9-b7f9c5939b74</guid>
             <pubDate>Mon, 30 Nov 2015 09:10:11 GMT</pubDate>
         </item>
