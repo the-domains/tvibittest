@@ -1,0 +1,28 @@
+name: TvibitTest
+favicon: null
+layout_spectrum: 0.8994934980291873
+typography_spectrum: 0.9114315097685903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16157754906453192
+  lightness: 0.16226568492129445
+  saturation: 0.7093652475159615
+  rhythmicContrast: 0.7176644371356815
+purpose: []
